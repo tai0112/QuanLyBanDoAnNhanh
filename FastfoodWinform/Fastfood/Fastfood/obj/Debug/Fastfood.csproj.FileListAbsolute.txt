@@ -1,0 +1,34 @@
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\bin\Debug\Fastfood.exe.config
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\bin\Debug\Fastfood.exe
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\bin\Debug\Fastfood.pdb
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.frmDMLoaiMon.resources
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.Properties.Resources.resources
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.GenerateResource.cache
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.CoreCompileInputs.cache
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.exe
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.pdb
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.frmDMNhanVien.resources
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.frmDMKhachHang.resources
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.frmDMMonAn.resources
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.frmHoaDon.resources
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.frmTimKiemHD.resources
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.ResolveComReference.cache
+C:\Users\Khoa Nguyen\source\repos\Fastfood\Fastfood\obj\Debug\Fastfood.MainUI.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\bin\Debug\Fastfood.exe.config
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\bin\Debug\Fastfood.exe
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\bin\Debug\Fastfood.pdb
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.AssemblyReference.cache
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.SuggestedBindingRedirects.cache
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.ResolveComReference.cache
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.frmDMKhachHang.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.frmDMLoaiMon.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.frmDMMonAn.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.frmDMNhanVien.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.frmHoaDon.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.frmTimKiemHD.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.MainUI.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.Properties.Resources.resources
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.GenerateResource.cache
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.csproj.CoreCompileInputs.cache
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.exe
+G:\Stolen\HK3-20-21-CD NET-1900007348-Nguyen Dang Khoa-19DTH1B\Fastfood\Fastfood\obj\Debug\Fastfood.pdb
